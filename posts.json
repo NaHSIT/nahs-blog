@@ -13,12 +13,12 @@
   {
     "id": "niu-g0-iot",
     "legacyId": "niu-g0-iot-system",
-    "title": "给老款电动车加上一套完整的物联网系统：ESP32、4G网关、Android App与管理后台",
+    "title": "给老款电动车加上电门锁控制与定位：ESP32-S3、4G和Android App",
     "date": "2026-08-09",
     "tags": ["物联网", "ESP32", "Android", "Python", "4G", "蓝牙", "OTA", "独立项目"],
     "collection": "独立项目",
-    "readTime": "大约 18 分钟",
-    "excerpt": "从老款小牛 G0 的硬件控制，到 ESP32-S3、M100MG-B1 4G/定位、Python 云端网关、Android App 和 Web 管理后台，完整拆解一套车辆物联网系统的需求、分层、协议、状态机、地图、OTA 与安全设计。"
+    "readTime": "大约 7 分钟",
+    "excerpt": "给个人电动车加上ESP32-S3电门锁控制和4G/GNSS定位，并在实车上完成测试。记录BLE与远程指令如何控制车辆、位置如何回到手机，以及手机热点OTA的实际方案。"
   },
   {
     "id": "antigravity-usage-monitor",
